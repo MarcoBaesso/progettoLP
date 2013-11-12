@@ -1,0 +1,3 @@
+use "/analisi\lessicale/assegnamento-lex.ml";
+use "/analisi\sintattica/assegnamento-parser.ml";
+
